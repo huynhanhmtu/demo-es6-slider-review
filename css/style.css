@@ -64,7 +64,7 @@ p {
 .slider {
   max-width: var(--fixed-width);
   margin: auto;
-  margin-top: 1rem;
+  margin-top: 5rem;
   text-align: center;
   padding: 0 5rem;
   position: relative;
